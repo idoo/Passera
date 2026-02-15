@@ -6,7 +6,7 @@ Need help with Passera? This page covers common issues and how to contact suppor
 
 ## Contact Support
 
-Email: [YOUR-SUPPORT-EMAIL@example.com](mailto:YOUR-SUPPORT-EMAIL@example.com)
+[Email](mailto:ivan@jvcr.se)
 
 Replace the support email above before publishing.
 
